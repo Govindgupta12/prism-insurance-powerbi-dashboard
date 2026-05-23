@@ -38,8 +38,8 @@ This helps stakeholders make informed and data-driven decisions.
 
 ## 📂 Project Files
 
-* `Prism insurance pvt.ltd..pbix` → Main Power BI dashboard file
-* `dashboard_screenshot.png` → Dashboard preview image
+* `Prism insurance pvt.ltd.ff928d3f-3891-4772-9af2-7c06d620ef1a.pbix` → Main Power BI dashboard file
+* `Screenshot 2026-05-24 002041.png` → Dashboard preview image
 
 ---
 
@@ -68,7 +68,7 @@ This helps stakeholders make informed and data-driven decisions.
 
 ## 🙌 Author
 
-Govind Gupta
+Govind Prakash  Gupta
 
 ---
 
